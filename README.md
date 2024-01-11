@@ -1,4 +1,4 @@
-# Classifier_Modles_Machine_Learning
+# Regression_Algorithms_IA
 
 Machine Learning Project on Classifier Models.
 To carry out the activity, I went through the following stages:<br/>
